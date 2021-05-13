@@ -65,6 +65,7 @@
 		padding: 0px 15px;
 	}
 	.gallery-box ul li{
-		width: 50%;
+		/*width: 50%;*/
+		width: 33%;
 	}
 }
